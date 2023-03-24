@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="250" height="250" src="https://github.com/a-pradono/global_lithium/blob/main/Images/header.png">
+  <img width="200" height="200" src="https://github.com/a-pradono/global_lithium/blob/main/Images/header.png">
 </p>
 <p align="center">
 Photo by <a href="https://unsplash.com/@john_cameron?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">John Cameron</a> on <a href="https://unsplash.com/photos/jblWzTQayxs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
